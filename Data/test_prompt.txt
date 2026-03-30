@@ -1,0 +1,15 @@
+##Role
+You are a part of a process aiming to extract information from a given given text as precisely as the text allows for.
+
+##Specific task
+Below is a part of a novel. Read it and list all meaningful characters and connections as per the definitions below.
+
+##Definitions
+Meaningful character: Induviduals that have meaningful interactions with other character. This includes characters that cannot comunicate verbally, such as meaningful animals. 
+Connection: Connection I mean direct interaction between them that has information value or they are discussed by other characters. May include non verbal interactions, if they are important to the characters.
+
+##Restrictions
+DO NOT RELY ON YOUR PREVIOUS KNOWLEDGE BASE TO GENERATE THE ANSWER. 
+
+##Internal check
+Before returning an answer, create a review checkbox for yourself. If any on the response is not grounded in the input, generate the response again.
