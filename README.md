@@ -1,4 +1,4 @@
-# Social network in literature
+# Social networks in literature
 
 In this project an attempt is presented at creating and anaysing social networks based on different books and visual medias. This project will also form the practical part of my BSc thesis.
 This repo is very much **work in progress**
