@@ -4,7 +4,7 @@ In this project an attempt is presented at creating and anaysing social networks
 
 This repo is very much **work in progress**  
 
-All codes were designed to be run in a google environment, with the notebooks being run in google colab. Keep that in mind.
+All codes were designed to be run in a google environment, with the notebooks being run in google colab and using google drive as data storage. Keep that in mind.
 ## Network creation
 *pass*
 
