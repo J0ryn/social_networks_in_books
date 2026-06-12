@@ -17,4 +17,11 @@ To generate a network for a new book, a gemini API key is required.
 ## List of processed books
 - Harry Potter 1
 - Harry Potter 2
+- Harry Potter 3
+- Harry Potter 4
+- Harry Potter 5
+- Harry Potter 6
+- Harry Potter 7
+- Hunger Games 1 _Note: Chapter 5 is missing due to content restrictions in the Gemini model API_
+- Dürematt: Physicists _Note: I used the hungarian version of this drama_
 
